@@ -1,5 +1,5 @@
 [project]
-name = 'plyvel_ex'
-description = 'plyvel extension, provide move convenience api'
+name = 'leveldb'
+description = 'level db extension, provide move convenience api'
 version = '0.0.1'
 dependencies = []
