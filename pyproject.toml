@@ -1,5 +1,9 @@
 [project]
-name = 'leveldb'
+name = 'leveldb_ex'
 description = 'level db extension, provide move convenience api'
 version = '0.0.1'
 dependencies = []
+
+[build-system]
+requires = ['setuptools']
+build-backend = 'setuptools.build_meta'
